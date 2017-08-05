@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+}
+.box {
+	height: 400px;
+	width: 100%;
+	background: red;
+}
+
+#inner {
+	/*box-sizing: border-box;*/
+	overflow: hidden;
+	overflow-y: auto;
+	width: 516px;
+	height: 200px;
+	padding-top: 100px;
+	/*border: 2px solid black;*/
+	
+}
